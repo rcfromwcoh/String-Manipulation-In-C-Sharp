@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringManipulationInCSharp\StringManipulationInCSharp\bin\Debug\StringManipulationInCSharp.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringManipulationInCSharp\StringManipulationInCSharp\bin\Debug\StringManipulationInCSharp.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringManipulationInCSharp\StringManipulationInCSharp\bin\Debug\StringManipulationInCSharp.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringManipulationInCSharp\StringManipulationInCSharp\obj\Debug\StringManipulationInCSharp.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringManipulationInCSharp\StringManipulationInCSharp\obj\Debug\StringManipulationInCSharp.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringManipulationInCSharp\StringManipulationInCSharp\obj\Debug\StringManipulationInCSharp.pdb
